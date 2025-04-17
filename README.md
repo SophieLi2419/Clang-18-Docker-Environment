@@ -27,8 +27,8 @@ A lightweight, ready-to-use Docker-based development environment for **C/C++** u
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/clang18-docker.git
-cd clang18-docker
+git clone https://github.com/SophieLi2419/Clang-18-Docker-Environment.git
+cd Clang-18-Docker-Environment
 ```
 
 ### 2. Build and Run the Container
